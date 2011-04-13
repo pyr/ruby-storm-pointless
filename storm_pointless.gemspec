@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Pierre-Yves Ritschard"]
   s.email       = ["pyr@spootnik.org"]
   s.homepage    = ""
-  s.summary     = %q{random name generator}}
+  s.summary     = %q{random name generator}
   s.description = %q{randomly create names for different use cases}
 
   s.rubyforge_project = "storm_pointless"
