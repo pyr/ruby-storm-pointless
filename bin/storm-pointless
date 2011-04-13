@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'storm_pointless'
+
+puts StormPointless.codename
